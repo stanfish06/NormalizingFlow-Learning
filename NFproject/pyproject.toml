@@ -11,6 +11,8 @@ jupyter-contrib-nbextensions = "^0.7.0"
 autopep8 = "^2.0.2"
 numpy = "^1.25.0"
 normflows = "^1.7.1"
+matplotlib = "^3.7.1"
+tqdm = "^4.65.0"
 
 [tool.poetry.group.dev.dependencies]
 jupyter = "^1.0.0"
